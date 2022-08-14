@@ -1,0 +1,1 @@
+Neste primeiro commit, há apenas uma página html e css responsiva, mas com o flexbox mal posicionado!!!
